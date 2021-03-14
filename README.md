@@ -1,2 +1,2 @@
 # haley-hi
-this is just a webisite for now :)
+this is just a website for now :)
