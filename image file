@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>images page</title>
+    <style>
+        img {
+            border: 4px solid black;
+            box-shadow: 3px 3px 6px #888;
+        }
+        .round {
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    <h1>this is an images page</h1>
+   
+    <p>there is an image above here and below.</p>
+    <img src="face.png" alt="red heart and yellow background with dots  - decorative" />
+</body>
+</htm
+ 
